@@ -30,7 +30,7 @@ struct ContentView: View {
         NavigationView {
             Form {
                 Section {
-                    TextField("Amount", text: $checkAmount)
+                    TextField("Amount ", text: $checkAmount)
                         .keyboardType(.decimalPad)
                     Picker("Number of People", selection: $numberOfPeople){
                         ForEach(2..<100){
