@@ -1,5 +1,5 @@
 # 100 Days of Swift UI
-I started pretty much late on day 54 but I will try my best to go through very content then split each day in a folder as much as I can.
+I joined the program on the 54th day of the challenge but I will try my best to go through every content then split each day in a folder as much as I can.
 
 ## Days
 
