@@ -7,5 +7,6 @@ I joined the program on the 54th day of the challenge but I will try my best to 
 - **Day 16 - 18:** [_Project 1: WeSplit_ (Part One,Two and Three)](./WeSplit-Project-1/)
 - **Day 20 - 22:** [_Project 2: Guess The Flag_ (Part One)](./GuessTheFlag-%20Project-2/)
 - **Day 23:** [_Project 3: View Modifiers_ (Part One)](./Day%2023%20-%20ViewModifiers/)
+- **Day 24:** [_Project 3: View Modifiers_ (Part Two)](.//Day%2024%20-%20Challenge/)
 
 
