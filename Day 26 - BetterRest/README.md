@@ -1,12 +1,11 @@
 # Day 26: BetterRest Part One
-
-Overview of the new project was presented - BetterRest is a Machine Learning mobile application that predicts the hours of sleep you will
-get based on the amount of cofee you take or vice versa
-
-The Machine Learning Module uses CoreML framework built into swift based on a pretrained ML Model and uses Linear Regression for decision making. This app ask three questions from the users and generate result based on this:
+BetterRest is an app designed to help coffee drinkers to help them get a good night’s sleep by asking them three questions:
 
 - When do they want to wake up?
 - Roughly how many hours of sleep do they want?
 - How many cups of coffee do they drink per day?
+
+Once we have those three values, we’ll feed them into Core ML to get a result telling us when they ought to go to bed.
+
 
 
