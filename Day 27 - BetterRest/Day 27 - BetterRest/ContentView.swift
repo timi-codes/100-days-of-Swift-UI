@@ -92,7 +92,7 @@ struct ContentView: View {
             formatter.timeStyle = .short
             
             alertMessage = formatter.string(from: sleepTime)
-            alertTitle = "Your idela bedtime is..."
+            alertTitle = "Your ideal bedtime is..."
             
         }catch{
             //something went wrong
