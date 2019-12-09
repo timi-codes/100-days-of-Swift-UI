@@ -12,4 +12,9 @@ I joined the program on the 54th day of the challenge but I will try my best to 
 - **Day 26:** [Project 4: BetterRest (Part One)](./Day%2026%20-%20BetterRest)
 - **Day 27:** [Project 4: BetterRest (Part Two)](./Day%2027%20-%20BetterRest)
 - **Day 28:** [Project 4: BetterRest Wrap Up and Review (Part Three)](https://www.hackingwithswift.com/100/swiftui/28)
+- **Day 29:** [Project 4: Word Scrabble (Part Three)](https://github.com/timi-codes/100-days-of-Swift-UI/tree/master/Day%2029%20-%20WordScramble)
+- **Day 30-31:** [Project Review)](https://www.hackingwithswift.com/100/swiftui/31)
+
+
+
 
